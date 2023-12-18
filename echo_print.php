@@ -7,15 +7,10 @@
 </head>
 <body>
     <?php 
-        echo 'Utilizando a tag padrão';  
+    
+        echo 'Comando echo <br/>';
+        print('Comando print <hr/>'); # função
+
     ?>
-
-    <br>
-
-    <?= 'Utilizando a tag impressão'?>
-
-    <br>
-
-
 </body>
 </html>
